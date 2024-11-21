@@ -1,4 +1,4 @@
-/* General styles */
+
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
@@ -12,7 +12,7 @@ body {
     margin-top: 20px;
   }
   
-  /* Header styles */
+  
   .header {
     display: flex;
     justify-content: center;
@@ -49,7 +49,7 @@ body {
     box-sizing: border-box;
   }
   
-  /* Individual component styles */
+  
   .component {
     text-align: center;
     padding: 20px;
@@ -66,7 +66,7 @@ body {
     line-height: 1.5;
   }
   
-  /* Button styles (if needed) */
+  
   .button {
     display: inline-block;
     padding: 10px 20px;
